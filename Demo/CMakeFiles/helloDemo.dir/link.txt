@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/helloDemo.dir/demo.cxx.o CMakeFiles/helloDemo.dir/demo_b.cxx.o  -o helloDemo -rdynamic -L/home/pi/Projects/openGLES/helloworld/Hello -L/opt/vc/lib -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLESv2 -lEGL ../Hello/libHello.a -Wl,-rpath,/home/pi/Projects/openGLES/helloworld/Hello:/opt/vc/lib 
